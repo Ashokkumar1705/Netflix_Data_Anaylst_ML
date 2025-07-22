@@ -109,12 +109,12 @@ Jupyter Notebooks
 Clone the repository:
 
 bash
-git clone https://github.com/yourusername/netflix-data-analysis.git
+git clone https://github.com/yourusername/Netflix_Data_Anaylst_ML.git
 cd netflix-data-analysis
 Open Jupyter Notebook:
 
 bash
-jupyter notebook Netflix_EDA_ML.ipynb
+jupyter notebook Netflix_EDA.ipynb
 Run cells to explore EDA, charts, and model evaluation.
 
 Conclusion
